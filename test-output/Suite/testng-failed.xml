@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test">
+    <packages>
+      <package name="script"/>
+    </packages>
+    <classes>
+      <class name="script.Demo1"/>
+      <class name="script.Demo2"/>
+      <class name="script.Demo3"/>
+      <class name="script.Demo1"/>
+      <class name="script.Demo2"/>
+      <class name="script.Demo3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
